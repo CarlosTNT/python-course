@@ -21,7 +21,7 @@ print(False)
 
 # Dictionaries
 #Clave y valor
-dictio={
+{
     "name":"Ryan",
     "lastname":"Sierra",
     "nickname":"CarlosTnT"
